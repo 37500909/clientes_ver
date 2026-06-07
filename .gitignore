@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$*.py
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Environment variables / secrets
+.env
